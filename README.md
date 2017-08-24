@@ -49,18 +49,28 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 ## Experience
 
 **Scholarpack** (03/2016 to 07/2017)    
-*First Line Technical Analyst*  
+*First Line Technical Analyst* 
+
+- Acted as the first point of contact for all customers requiring software support (both phone and live chat).
+- Worked with customers to resolve non-technical issues and provide general software guidance.
+- Directly worked with our technical team to ensure that any technical issues were resolved promptly. Also acted as a conduit for customer feedback on areas of the product that required improvement.
+
 **JPC Commercial Services** (03/2014 to 03/2016)   
+ 
  *Accounts Assistant*  (09/2015 to 03/2016)
-  -Part of a team responsiblr for maintaining the day to day accounts of small chain of hotels.
-  -Solely responsible for all payroll tasks relating to 70+ employees.
+ 
+ - Part of a team responsible for maintaining the day to day accounts of small chain of hotels.
+ - Solely responsible for all payroll tasks relating to 70+ employees.
+ - Actively worked with suppliers to reduce business costs.
   
+ 
  *Receptionist and Assistant Manager* (03/2014 to 09/2015)
- - Managed the hotel’s reception and housekeeping teams. This involved training, rota management and ensuring that all employees    --maintained high standards in their work.
+
+- Managed the hotel’s reception and housekeeping teams. This involved training, rota management and ensuring that all employees    --maintained high standards in their work.
 - Provided professional and friendly service to all hotel guests.
 - Ensured that all correspondence from guests and suppliers was replied to in a timely manner.
 - Took responsibility for accurately recording and banking all hotel takings.
 
-##Interests
+## Interests
 
 Outside of work, I like to keep active and particularly enjoy cycling (although having recently moved from Lincolnshire to London, this hobby has become a fair bit scarier). I am also an avid snowboarder and like to try and get away when I can. I have previously completed a snowboard instructing qualification in Canada.
