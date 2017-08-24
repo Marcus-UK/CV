@@ -59,6 +59,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 ## Experience
 
 **Scholarpack** (03/2016 to 07/2017)    
+
 *First Line Technical Analyst* 
 
 - Acted as the first point of contact for all customers requiring software support (both phone and live chat).
@@ -74,12 +75,24 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
  - Actively worked with suppliers to reduce business costs.
   
  
- *Receptionist and Assistant Manager* (03/2014 to 09/2015)
+ * Hotel Receptionist and Assistant Manager* (03/2014 to 09/2015)
 
 - Managed the hotel’s reception and housekeeping teams. This involved training, rota management and ensuring that all employees    --maintained high standards in their work.
 - Provided professional and friendly service to all hotel guests.
 - Ensured that all correspondence from guests and suppliers was replied to in a timely manner.
 - Took responsibility for accurately recording and banking all hotel takings.
+
+**Anglian Water**
+
+*Contact Centre Agent* (09/2011 to 12/2012)
+
+-Worked in a busy call centre dealing with high volumes of customer billing queries. 
+-Developed a highly professional phone manner.
+-Played a key role in conducting a survey of customer water usage habits. This consisted of contacting customers to convince them of the benefits of survey participation.
+
+
+
+
 
 ## Interests
 
