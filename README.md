@@ -2,9 +2,7 @@
 
 **Who I Am**
 
-
-
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+I am a former inhabitant of the world of tech support who has seen the light and decided to learn to code with Makers Academy. In my past life, I was highy adept at using problem solving skills to help customers get to grips with their software. I'm now looking to use those skills to produce great products.
 
 ## Skills
 
@@ -27,7 +25,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (08/2017 to 11/2017)
 
 - Curious and passionate about code. [PROVIDE EVIDENCE]
 - Fast, independent learner [PROVIDE EVIDENCE]
@@ -63,3 +61,6 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ensured that all correspondence from guests and suppliers was replied to in a timely manner.
 - Took responsibility for accurately recording and banking all hotel takings.
 
+##Interests
+
+Outside of work, I like to keep active and particularly enjoy cycling (although having recently moved from Lincolnshire to London, this hobby has become a fair bit scarier). I am also an avid snowboarder and like to try and get away when I can. I have previously completed a snowboard instructing qualification in Canada.
