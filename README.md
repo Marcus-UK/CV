@@ -6,7 +6,7 @@ I am a former inhabitant of the world of tech support who has seen the light and
 
 ## Skills
 
-#### This Skill
+#### Communication
 
 Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
 
@@ -14,7 +14,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Achievements
 - Evidence
 
-#### Another Skill
+#### Problem Solving
 
 Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
 
@@ -82,13 +82,17 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ensured that all correspondence from guests and suppliers was replied to in a timely manner.
 - Took responsibility for accurately recording and banking all hotel takings.
 
-**Anglian Water**
+**Anglian Water** (09/2011 to 12/2012)
 
 *Contact Centre Agent* (09/2011 to 12/2012)
 
 -Worked in a busy call centre dealing with high volumes of customer billing queries. 
 -Developed a highly professional phone manner.
 -Played a key role in conducting a survey of customer water usage habits. This consisted of contacting customers to convince them of the benefits of survey participation.
+
+**Various Roles** (2007 to 2011)
+
+-During my time at university I was employed in a number of temporary positions, primarily during the holiday periods. These were either hospitality or factory roles. Through these, I was able to develop the basic skills necessary to thrive in the workplace, such as effective time keeping and the ability to work as part of a team. I am happy to provide more specific information about these roles if required.
 
 
 
