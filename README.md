@@ -1,5 +1,9 @@
 ## Marcus Rands
 
+**Who I Am**
+
+
+
 A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
 
 ## Skills
@@ -36,10 +40,11 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 #### University of Sheffield (09/2008 to 06/2011)
 
-- BA History and Politics
+- BA (hons) History and Politics
 - 2:1
--   :Varied focus on different areas and periods of history
--   :
+-    Covered a multitude of historical periods.
+-    Thorough grounding in both historiagraphy and political theory.
+-    I wrote my dissertation on the use of use of history in the construction of a nationalist identities in twentieth century Africa.
 
 #### Any other qualifications
 
