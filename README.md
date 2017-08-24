@@ -44,7 +44,17 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 -    Thorough grounding in both historiagraphy and political theory.
 -    I wrote my dissertation on the use of use of history in the construction of a nationalist identities in twentieth century Africa.
 
-#### Any other qualifications
+### Other Qualifications
+
+- A Levels
+- English Literature - A
+- Geography - A
+- History - B
+
+- GCSEs
+- 9 GCSEs - A* to B
+
+
 
 ## Experience
 
