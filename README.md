@@ -84,7 +84,7 @@ Problem solving is a skill that I have had to hone in several of my previous pos
 
 **Anglian Water** (09/2011 to 12/2012)
 
-*Contact Centre Agent* (09/2011 to 12/2012)
+*Contact Centre Agent*
 
 -Worked in a busy call centre dealing with high volumes of customer billing queries. 
 -Developed a highly professional phone manner.
