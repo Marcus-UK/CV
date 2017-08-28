@@ -2,26 +2,24 @@
 
 **Who I Am**
 
-I am a former inhabitant of the world of tech support who has seen the light and decided to learn to code with Makers Academy. In my past life, I was highy adept at using problem solving skills to help customers get to grips with their software. I'm now looking to use those skills to produce great products.
+I am a former inhabitant of the world of tech support who has seen the light and decided to learn to code with Makers Academy. In my past life, I was highy adept at using problem solving skills to help customers get to grips with their software. I'm now looking to use those skills to produce great code.
 
 ## Skills
 
 #### Communication
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+In my former roles, the ability to communicate has always been essential. This was especially true during my time on a busy support desk. This involved the following:
 
-- Experience
-- Achievements
-- Evidence
+- Dealing with a very high volume of customer contacts, both via telephone and online chat. The online chat would often involve dealing with five or more consecutive contacts.
+- Being able to quickly find a solution to the customer's issues and comunicate this in a concise and understandable manner. This was an essential skill, as he product users we were dealing with were often not very computer literate.
+- Providing clear descriptions of problems that required the intervention of our developers. This was a necessity to ensure that these issues were resolved in a timely manner.
 
 #### Problem Solving
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+Problem solving is a skill that I have had to hone in several of my previous positions.
 
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+- My time in technical support required the ability to quickly work out problems for customers who often weren't particularly technically literate. As such, the ability to solve a problem with sometimes limited input from the customer was a key skill. The ability to work quickly was also very important, as the role often involved dealing with in excess of fifty support tickets a day.
+- During my time working in an accounts department, I was solely responsible for looking after the company payroll. Most of the workforce were employed on a casual basis, so it was often a highly protracted task to accurately work out the correct pay for each employee. My solution to this problem was to produce an excel spreadsheet that could be quickly be filled in on a daily basis. This would keep a running total of all hours worked that month and saved a significant amount of time when the payroll needed to be administered. This was extremely helpful, as payroll needed to be fitted arounf my other roles within the accounts department.
 
 ## Education
 
@@ -93,9 +91,6 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 **Various Roles** (2007 to 2011)
 
 -During my time at university I was employed in a number of temporary positions, primarily during the holiday periods. These were either hospitality or factory roles. Through these, I was able to develop the basic skills necessary to thrive in the workplace, such as effective time keeping and the ability to work as part of a team. I am happy to provide more specific information about these roles if required.
-
-
-
 
 
 ## Interests
