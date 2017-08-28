@@ -1,5 +1,7 @@
 ## Marcus Rands
 
+[Skills](#Skills)|[Problem Solving](#Problem Solving)|[Education](#Education)|[Experience](#Experience)|[Interests](#Interests)
+
 **Who I Am**
 
 I am a former inhabitant of the world of tech support who has seen the light and decided to learn to code with Makers Academy. In my past life, I was highy adept at using problem solving skills to help customers get to grips with their software. I'm now looking to use those skills to produce great code.
