@@ -1,6 +1,6 @@
 ## Marcus Rands
 
-[Skills](#Skills)|[Problem Solving](#Problem Solving)|[Education](#Education)|[Experience](#Experience)|[Interests](#Interests)
+[Skills](#Skills)| [Problem-Solving](#Problem Solving) |[Education](#Education) |[Experience](#Experience) |[Interests](#Interests)
 
 **Who I Am**
 
