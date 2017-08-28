@@ -77,7 +77,7 @@ Problem solving is a skill that I have had to hone in several of my previous pos
  
  *Hotel Receptionist and Assistant Manager* (03/2014 to 09/2015)
 
-- Managed the hotel’s reception and housekeeping teams. This involved training, rota management and ensuring that all employees    --maintained high standards in their work.
+- Managed the hotel’s reception and housekeeping teams. This involved training, rota management and ensuring that all employees     maintained high standards in their work.
 - Provided professional and friendly service to all hotel guests.
 - Ensured that all correspondence from guests and suppliers was replied to in a timely manner.
 - Took responsibility for accurately recording and banking all hotel takings.
