@@ -86,9 +86,9 @@ Problem solving is a skill that I have had to hone in several of my previous pos
 
 *Contact Centre Agent*
 
--Worked in a busy call centre dealing with high volumes of customer billing queries. 
--Developed a highly professional phone manner.
--Played a key role in conducting a survey of customer water usage habits. This consisted of contacting customers to convince them of the benefits of survey participation.
+- Worked in a busy call centre dealing with high volumes of customer billing queries. 
+- Developed a highly professional phone manner.
+- Played a key role in conducting a survey of customer water usage habits. This consisted of contacting customers to convince them of the benefits of survey participation.
 
 **Various Roles** (2007 to 2011)
 
