@@ -4,7 +4,7 @@
 
 **Who I Am**
 
-I am a former inhabitant of the world of tech support who has seen the light and decided to learn to code with Makers Academy. In my past life, I was highy adept at using problem solving skills to help customers get to grips with their software. I'm now looking to use those skills to produce great code.
+I am a former inhabitant of the world of tech support who has seen the light and decided to learn to code with Makers Academy. In my past life, I was highy adept at using problem solving skills to help customers get to grips with their software. I'm now hoping to put those skills to good use as a junior developer.
 
 ## Skills
 
@@ -29,14 +29,11 @@ Problem solving is a skill that I have had to hone in several of my previous pos
 
 Makers Academy is a highly selective web development bootcamp that places great emphasis on building the skills and behaviours necessary to thrive as a junior developer. These include: 
 
-- Curious and passionate about code. [PROVIDE EVIDENCE]
-- Fast, independent learner [PROVIDE EVIDENCE]
-- Great collaborator [PROVIDE EVIDENCE]
+- A clear focus on using OOP and TDD principles to guide software design.
+- Strong emphasis on Agile and XP values.
+- Developing the ability to quickly and independently learn and make use of different technologies. The course primarily focuses on Ruby and Javascript along with a number of their associated frameworks and libraries.
+- Learning to effectively collaborate on projects. Most of the time on the course is spent pairing or working on small group     projects.
 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
 
 #### University of Sheffield (09/2008 to 06/2011)
 
@@ -44,7 +41,7 @@ Makers Academy is a highly selective web development bootcamp that places great 
 - 2:1
 -    Covered a multitude of historical periods.
 -    Thorough grounding in both historiagraphy and political theory.
--    I wrote my dissertation on the use of use of history in the construction of a nationalist identities in twentieth century      Africa.
+-    I wrote my dissertation on the use of history in the construction of nationalist identities in twentieth century      Africa.
 
 ### Other Qualifications
 
@@ -97,7 +94,6 @@ ScholarPack is a small but rapidly growing software business that produces a man
  
 - Worked in a busy call centre dealing with high volumes of customer billing queries. 
 - Developed a highly professional phone manner.
-- Played a key role in conducting a survey of customer water usage habits. This consisted of contacting customers to convince them of the benefits of survey participation.
 
 **Various Roles** (2007 to 2011)
 
