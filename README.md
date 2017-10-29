@@ -77,7 +77,7 @@ ScholarPack is a small but rapidly growing software business that produces a man
  - Actively worked with suppliers to reduce business costs.
  - Gained a good understanding of best practice in accounting.
   
-  **Charlotee House Hotel, Lincoln** (03/2014 to 09/2015)
+  **Charlotte House Hotel, Lincoln** (03/2014 to 09/2015)
  
  *Hotel Receptionist and Assistant Manager* 
   
