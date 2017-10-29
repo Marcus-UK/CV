@@ -27,6 +27,8 @@ Problem solving is a skill that I have had to hone in several of my previous pos
 
 #### Makers Academy (08/2017 to 11/2017)
 
+Makers Academy is a highly selective web development bootcamp that places great emphasis on building the skills and behaviours necessary to thrive as a junior developer. These include: 
+
 - Curious and passionate about code. [PROVIDE EVIDENCE]
 - Fast, independent learner [PROVIDE EVIDENCE]
 - Great collaborator [PROVIDE EVIDENCE]
@@ -62,25 +64,31 @@ Problem solving is a skill that I have had to hone in several of my previous pos
 
 *First Line Technical Analyst* 
 
+Scholarpack is a small but rapidly growing software business that produces a management information system (MIS) for primary schools. During my time at the company, I was part of a five person support team that was . During my time on the team, our customer satisfaction ratings never dropped below 90%. My primary responsibilities are listed below.
+
 - Acted as the first point of contact for all customers requiring software support (both phone and live chat).
 - Worked with customers to resolve non-technical issues and provide general software guidance.
 - Directly worked with our technical team to ensure that any technical issues were resolved promptly. Also acted as a conduit for customer feedback on areas of the product that required improvement.
 
 **JPC Commercial Services** (03/2014 to 03/2016)   
  
- *Accounts Assistant*  (09/2015 to 03/2016)
+ *Accounts Assistant* 
  
- - Part of a team responsible for maintaining the day to day accounts of small chain of hotels.
+ After my time at Charlotte House, I moved in to the accounts team for the hotel's parent company. I was part of a small team that was responsible for the maintaining the accounts of a small team of hotels.
+ 
  - Solely responsible for all payroll tasks relating to 70+ employees.
  - Actively worked with suppliers to reduce business costs.
   
+  **Charlotee House Hotel, Lincoln** (03/2014 to 09/2015)
  
  *Hotel Receptionist and Assistant Manager* (03/2014 to 09/2015)
-
-- Managed the hotel’s reception and housekeeping teams. This involved training, rota management and ensuring that all employees     maintained high standards in their work.
+  
+  Charlotte House is a boutique hotel that specializes in weddings and large events.
+ 
+- Managed the hotel’s reception and housekeeping teams. This involved training, rota management and ensuring that all employees maintained high standards in their work.
 - Provided professional and friendly service to all hotel guests.
-- Ensured that all correspondence from guests and suppliers was replied to in a timely manner.
 - Took responsibility for accurately recording and banking all hotel takings.
+- Assisted the manager to ensure that all events ran smoothly. The hotel would often host multiple weddings over the course of   a weekend, which meant dealing with customers with very high expectations.
 
 **Anglian Water** (09/2011 to 12/2012)
 
