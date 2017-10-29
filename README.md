@@ -1,6 +1,6 @@
 ## Marcus Rands
 
-[Skills](#Skills-in-markdown)| [Education](#Education) | [Experience](#Experience) | [Interests](#Interests)
+[Skills](#skills)| [Education](#Education) | [Experience](#Experience) | [Interests](#Interests)
 
 **Who I Am**
 
