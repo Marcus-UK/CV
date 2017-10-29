@@ -45,12 +45,12 @@ Makers Academy is a highly selective web development bootcamp that places great 
 
 ### Other Qualifications
 
-- A Levels
+ A Levels
 - English Literature - A
 - Geography - A
 - History - B
 
-- GCSEs
+ GCSEs
 - 9 GCSEs - A* to B including English, Mathematics and Science.
 
 
