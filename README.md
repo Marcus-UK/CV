@@ -60,14 +60,14 @@ Makers Academy is a highly selective web development bootcamp that places great 
 
 ## Experience
 
-**Scholarpack** (03/2016 to 07/2017)    
+**ScholarPack** (03/2016 to 07/2017)    
 
 *First Line Technical Analyst* 
 
-Scholarpack is a small but rapidly growing software business that produces a management information system (MIS) for primary schools. During my time at the company, I was part of a five person support team that was . During my time on the team, our customer satisfaction ratings never dropped below 90%.
+ScholarPack is a small but rapidly growing software business that produces a management information system (MIS) for primary schools. During my time at the company, I was part of a five person team that was responsible for managing all of our customers' support needs. Whilst I was in this role, ScholarPack doubled its customer base. Despite this, we managed to maintain customer support satisfaction ratings above 90 percent.
 
 - Acted as the first point of contact for all customers requiring software support (both phone and live chat).
-- Worked with customers to resolve non-technical issues and provide general software guidance.
+- Worked with customers to resolve non-technical issues and provide general software guidance. This required both a thorough understanding of the product and the education sector that it was built to support.
 - Directly worked with our technical team to ensure that any technical issues were resolved promptly. Also acted as a conduit for customer feedback on areas of the product that required improvement.
 
 **JPC Commercial Services** (03/2014 to 03/2016)   
@@ -76,8 +76,9 @@ Scholarpack is a small but rapidly growing software business that produces a man
  
  After my time at Charlotte House, I moved in to the accounts team for the hotel's parent company. I was part of a small team that was responsible for maintaining the accounts of three hotels and a busy public house.
  
- - Solely responsible for all payroll tasks relating to 70+ employees.
+ - Solely responsible for looking after the company payroll for more than 70 employees.
  - Actively worked with suppliers to reduce business costs.
+ - Gained a good understanding of best practice in accounting.
   
   **Charlotee House Hotel, Lincoln** (03/2014 to 09/2015)
  
@@ -85,15 +86,15 @@ Scholarpack is a small but rapidly growing software business that produces a man
   
   Charlotte House is a boutique hotel that specializes in weddings and large events.
  
-- Managed the hotel’s reception and housekeeping teams. This involved training, rota management and ensuring that all employees maintained high standards in their work.
+- Managed the hotel’s reception and housekeeping teams. This involved training, rota management and ensuring that all    employees maintained high standards in their work.
 - Provided professional and friendly service to all hotel guests.
 - Took responsibility for accurately recording and banking all hotel takings.
-- Assisted the general manager to ensure that all events ran smoothly. The hotel would often host multiple weddings over the course of   a weekend, which meant dealing with customers with very high expectations.
+- Assisted the general manager to ensure that all events ran smoothly. The hotel would often host multiple weddings over the course of a weekend. This required working to very tight schedules to keep customers with very high expectations happy.
 
 **Anglian Water** (09/2011 to 12/2012)
 
 *Contact Centre Agent*
-
+ 
 - Worked in a busy call centre dealing with high volumes of customer billing queries. 
 - Developed a highly professional phone manner.
 - Played a key role in conducting a survey of customer water usage habits. This consisted of contacting customers to convince them of the benefits of survey participation.
