@@ -87,9 +87,7 @@ This was a temporarary contract for a large utilities provider.
 - Worked in a busy call centre dealing with high volumes of customer billing queries. 
 - Developed a highly professional phone manner.
 
-**Various Roles** (2007 to 2011)
 
--During my time at university I was employed in a number of temporary positions, primarily during the holiday periods. These were either hospitality or factory roles. Through these, I was able to develop the basic skills necessary to thrive in the workplace, such as effective time keeping and the ability to work as part of a team. I am happy to provide more specific information about these roles if required.
 
 
 ## Interests
