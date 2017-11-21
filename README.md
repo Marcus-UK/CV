@@ -10,7 +10,7 @@ I am a former inhabitant of the world of tech support who has seen the light and
 
 | Link                                                          | Description                             | Main technologies used
 |-------------------------------------------------------------- | --------------------------------------- | -----------------------
-|[Layman Brothers](https://github.com/Marcus-UK/laymanbrothers) | Group project. This was my final project and involved building an online banking application in Java. | Java, Spring boot Framework, Postgresql, HTML, CSSm Junit.
+|[Layman Brothers](https://github.com/Marcus-UK/laymanbrothers) | Group project. This was my final project and involved building an online banking application in Java. | Java, Spring boot Framework, Postgresql, HTML, CSS, Junit.
 |[EarBnB](https://github.com/Marcus-UK/EarBnb) | Group Project. This project is a clone of AirbnB. | Ruby, Sinatra Framework, Postgresql, Rspec.
 
 ## Education
