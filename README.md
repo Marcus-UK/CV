@@ -2,7 +2,6 @@
 
 [Projects](#projects) | [Education](#education) | [Experience](#experience) | [Interests](#interests)
 
-**Who I Am**
 
 I am a former inhabitant of the world of tech support who has seen the light and decided to learn to code with Makers Academy. In my past life, I was highy adept at using problem solving skills to help customers get to grips with their software. I'm now hoping to put those skills to good use as a junior developer.
 
