@@ -82,7 +82,7 @@ ScholarPack is a small but rapidly growing software business that produces a man
 
 *Contact Centre Agent*
 
-This was a temporarary contract for a large utilities provider.
+This was a temporary contract for a large utilities provider.
  
 - Worked in a busy call centre dealing with high volumes of customer billing queries. 
 - Developed a highly professional phone manner.
