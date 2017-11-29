@@ -30,7 +30,7 @@ Makers Academy is a highly selective web development bootcamp that places great 
 - BA (hons) History and Politics
 - 2:1
 -    Covered a multitude of historical periods.
--    Thorough grounding in both historiagraphy and political theory.
+-    Thorough grounding in both historiography and political theory.
 -    I wrote my dissertation on the use of history in the construction of nationalist identities in twentieth century      Africa.
 
 ### Other Qualifications
