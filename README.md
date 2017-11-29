@@ -11,6 +11,7 @@ I am a former inhabitant of the world of tech support who has seen the light and
 |-------------------------------------------------------------- | --------------------------------------- | -----------------------
 |[Layman Brothers](https://github.com/Marcus-UK/laymanbrothers) | Group project. This was my final project and involved building an online banking application in Java. | Java, Spring boot Framework, Postgresql, HTML, CSS, Junit.
 |[EarBnB](https://github.com/Marcus-UK/EarBnb) | Group Project. This project is a clone of AirbnB. | Ruby, Sinatra Framework, Postgresql, Rspec.
+| [Thermostat](https://github.com/Marcus-UK/new_thermostat) | A single page javascript application using Jquery to dynamically update elements. | Javascript, Jquery, Jasmine, CSS, HTML.
 
 ## Education
 
