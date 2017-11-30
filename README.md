@@ -57,7 +57,7 @@ ScholarPack is a small but rapidly growing software business that produces a man
 - Worked with customers to resolve non-technical issues and provide general software guidance. This required both a thorough understanding of the product and the education sector that it was built to support.
 - Directly worked with our technical team to ensure that any technical issues were resolved promptly. Also acted as a conduit for customer feedback on areas of the product that required improvement.
 
-**JPC Commercial Services** (03/2014 to 03/2016)   
+**JPC Commercial Services** (09/2015 to 03/2016)   
  
  *Accounts Assistant* 
  
