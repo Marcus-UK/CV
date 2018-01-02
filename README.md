@@ -52,21 +52,23 @@ Makers Academy is a highly selective web development bootcamp that places great 
 
 *First Line Technical Analyst* 
 
-ScholarPack is a small but rapidly growing software business that produces a management information system (MIS) for primary schools. During my time at the company, I was part of a five person team that was responsible for managing all of our customers' support needs. Whilst I was in this role, ScholarPack doubled its customer base. Despite this, we managed to maintain customer support satisfaction ratings above 90 percent.
+ScholarPack is a software company that produces a management information system (MIS) for primary schools.
 
-- Acted as the first point of contact for all customers requiring software support (both phone and live chat).
 - Worked with customers to resolve non-technical issues and provide general software guidance. This required both a thorough understanding of the product and the education sector that it was built to support.
 - Directly worked with our technical team to ensure that any technical issues were resolved promptly. Also acted as a conduit for customer feedback on areas of the product that required improvement.
+- As part of a five-person support team, maintained a customer satisfaction rating above ninety percent. This was despite a near doubling of our customer base over the course of a year.
+
 
 **JPC Commercial Services** (09/2015 to 03/2016)   
  
  *Accounts Assistant* 
  
- After my time at Charlotte House, I moved in to the accounts team for the hotel's parent company. I was part of a small team that was responsible for maintaining the accounts of three hotels and a busy public house.
- 
- - Solely responsible for looking after the company payroll for more than 70 employees.
- - Actively worked with suppliers to reduce business costs.
- - Gained a good understanding of best practice in accounting.
+ JPC is the parent company of Charlotte House. I was part of a small team that was responsible for maintaining the accounts of three hotels and a busy public house.
+
+- Solely responsible for looking after the company payroll for more than 70 employees.
+- Actively worked with suppliers to reduce business costs.
+- Gained a good understanding of best practice in accounting.
+
   
   **Charlotte House Hotel, Lincoln** (03/2014 to 09/2015)
  
