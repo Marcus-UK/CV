@@ -70,7 +70,7 @@ ScholarPack is a software company that produces a management information system 
 - Gained a good understanding of best practice in accounting.
 
   
-  **Charlotte House Hotel, Lincoln** (03/2014 to 09/2015)
+ **Charlotte House Hotel, Lincoln** (03/2014 to 09/2015)
  
  *Hotel Receptionist and Assistant Manager* 
   
