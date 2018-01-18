@@ -9,6 +9,7 @@ I am a former inhabitant of the world of tech support and life long lover of tec
 
 | Link                                                          | Description                             | Main technologies used
 |-------------------------------------------------------------- | --------------------------------------- | -----------------------
+|[Expens.io](https://github.com/Marcus-UK/Expens.io) | A personal rails project to build an expenses tracking app. A work in progress, so watch this space for more features! | Rails, Rspec, Postgresql, Bootstrap.
 |[Layman Brothers](https://github.com/Marcus-UK/laymanbrothers) | Group project. This was my final project and involved building an online banking application in Java. | Java, Spring boot Framework, Postgresql, HTML, CSS, Junit.
 |[EarBnB](https://github.com/Marcus-UK/EarBnb) | Group Project. This project is a clone of AirbnB. | Ruby, Sinatra Framework, Postgresql, Rspec.
 | [Thermostat](https://github.com/Marcus-UK/new_thermostat) | A single page javascript application using Jquery to dynamically update elements. | Javascript, Jquery, Jasmine, CSS, HTML.
