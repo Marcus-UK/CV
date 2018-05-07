@@ -49,6 +49,20 @@ Makers Academy is a highly selective web development bootcamp that places great 
 
 ## Experience
 
+**Survival International** (02/2018 to Present)
+
+*Full-Stack Web Developer*
+
+Survival International is a charity that works to support the rights of Tribal peoples around the world. The web team is responsible for building and maintaining the charity's website along with a custom CMS. The primary challenges of the role are as follows:
+
+- Upgrading a monolithic legacy rails application. 
+- Building new front-end features to assist the charity's primary work of attracting new 
+supporters.
+- Taking in to account localisation when building or maintaining all aspects of the site. The site
+is accessible in six different languages and we aim to provide a consistent experience to all users.
+- Extending test coverage to all areas of the application. 
+
+
 **ScholarPack** (03/2016 to 07/2017)    
 
 *First Line Technical Analyst* 
