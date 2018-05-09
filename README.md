@@ -13,7 +13,7 @@ I am a former inhabitant of the world of tech support and life long lover of tec
 |[Layman Brothers](https://github.com/Marcus-UK/laymanbrothers) | Group project. This was my final project and involved building an online banking application in Java. | Java, Spring boot Framework, Postgresql, HTML, CSS, Junit.
 |[EarBnB](https://github.com/Marcus-UK/EarBnb) | Group Project. This project is a clone of AirbnB. | Ruby, Sinatra Framework, Postgresql, Rspec.
 | [Thermostat](https://github.com/Marcus-UK/new_thermostat) | A single page javascript application using Jquery to dynamically update elements. | Javascript, Jquery, Jasmine, CSS, HTML.
-| [Bank_tech_test](https://github.com/Marcus-UK/bank_tech_test) | A simple command line application in Ruby. This project is meant to demonstrate OOP principles in Ruby and was built using a TDD pattern. | Ruby, Rspec.
+| [Which Tech Test](https://github.com/Marcus-UK/tech_test) | A simple command line application in Ruby. This project is meant to demonstrate OOP principles in Ruby and was built using a BDD pattern. | Ruby, Rspec, HTTParty.
 
 ## Education
 
